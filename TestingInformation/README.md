@@ -1,8 +1,15 @@
-## 1. Процедура запуска авто-тестов:
+## 1. Содержание:
 
-1. Открыть проект в Android Studio;
-2. Ввести в терминал ./gradlew connectedCheck
-3. Нажать Enter
+* [План](https://github.com/bigsurmoon/diploma/blob/master/TestingInformation/PLAN.md)
+* [Чек-лист](https://github.com/bigsurmoon/diploma/blob/master/TestingInformation/Check.xlsx)
+* [Тест-кейсы](https://github.com/bigsurmoon/diploma/blob/master/TestingInformation/Cases.xlsx)
+* [Результаты](https://github.com/bigsurmoon/diploma/blob/master/TestingInformation/RESULTS.md)
+
+## 2. Процедура запуска авто-тестов:
+
+* Открыть проект в Android Studio;
+* Ввести в терминал ./gradlew connectedCheck
+* Нажать Enter
 
 ## Выполнено:
 
