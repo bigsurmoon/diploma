@@ -1,0 +1,105 @@
+{
+    "name": "to About",
+    "start": 1694093021512,
+    "stop": 1694093026933,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Authorized and log in if required",
+            "start": 1694093024765,
+            "stop": 1694093024765,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Open 'About page' from menu",
+            "start": 1694093024778,
+            "stop": 1694093024778,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "About page is opened",
+            "start": 1694093026248,
+            "stop": 1694093026248,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "d0dcd61a-23d6-4c4c-a3fc-9e1e84eb8a09",
+    "historyId": "adf83b2619324b54dc01bb11202a820a",
+    "fullName": "ru.iteco.fmhandroid.ui.MenuTest.aboutMenu",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.MenuTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "aboutMenu"
+        },
+        {
+            "name": "suite",
+            "value": "Switching Menu sections"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(63)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Menu"
+        }
+    ]
+}

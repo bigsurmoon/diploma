@@ -1,0 +1,105 @@
+{
+    "name": "to Claims",
+    "start": 1694093026946,
+    "stop": 1694093032193,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Authorized and log in if required",
+            "start": 1694093030250,
+            "stop": 1694093030250,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Open 'Claim page' from menu",
+            "start": 1694093030251,
+            "stop": 1694093030251,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Claims page is opened",
+            "start": 1694093031551,
+            "stop": 1694093031551,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "4dc07364-2819-449a-a021-1e0f86b08d20",
+    "historyId": "7a9f49552a3b6feefa1e4c95cf60484c",
+    "fullName": "ru.iteco.fmhandroid.ui.MenuTest.claimsMenu",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.MenuTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "claimsMenu"
+        },
+        {
+            "name": "suite",
+            "value": "Switching Menu sections"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(63)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Menu"
+        }
+    ]
+}

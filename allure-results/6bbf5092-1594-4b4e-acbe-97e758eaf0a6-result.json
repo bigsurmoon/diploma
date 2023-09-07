@@ -1,0 +1,105 @@
+{
+    "name": "Authorization not successful",
+    "start": 1694092814660,
+    "stop": 1694092829561,
+    "stage": "finished",
+    "description": "Authorization with empty fields",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Logout if required",
+            "start": 1694092817878,
+            "stop": 1694092817878,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Authorization with empty fields",
+            "start": 1694092827915,
+            "stop": 1694092827915,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Authorization is not completed",
+            "start": 1694092828699,
+            "stop": 1694092828699,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "6bbf5092-1594-4b4e-acbe-97e758eaf0a6",
+    "historyId": "5cbbb5211bf0e2e5418b3d0dbb00be99",
+    "fullName": "ru.iteco.fmhandroid.ui.AuthorizationTest.emptyAuthTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.AuthorizationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "emptyAuthTest"
+        },
+        {
+            "name": "suite",
+            "value": "Authorization"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(63)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Authorization"
+        }
+    ]
+}
