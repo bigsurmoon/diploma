@@ -4,7 +4,7 @@
 * [Чек-лист](https://github.com/bigsurmoon/diploma/blob/master/TestingInformation/Check.xlsx)
 * [Тест-кейсы](https://github.com/bigsurmoon/diploma/blob/master/TestingInformation/Cases.xlsx)
 * [Результаты](https://github.com/bigsurmoon/diploma/blob/master/TestingInformation/RESULTS.md)
-* Скачать [allure-results.zip](https://github.com/bigsurmoon/diploma/raw/master/allure-results.zip)
+* [Скачать](https://github.com/bigsurmoon/diploma/raw/master/allure-results.zip) allure-results.zip
 
 ## 2. Процедура запуска авто-тестов:
 
