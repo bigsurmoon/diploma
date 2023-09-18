@@ -1,17 +1,18 @@
-## 1. Содержание:
+## 1. Content:
 
-* [План](https://github.com/bigsurmoon/diploma/blob/master/TestingInformation/PLAN.md)
-* [Чек-лист](https://github.com/bigsurmoon/diploma/blob/master/TestingInformation/Check.xlsx)
-* [Тест-кейсы](https://github.com/bigsurmoon/diploma/blob/master/TestingInformation/Cases.xlsx)
-* [Результаты](https://github.com/bigsurmoon/diploma/blob/master/TestingInformation/RESULTS.md)
-* [Скачать](https://github.com/bigsurmoon/diploma/raw/master/allure-results.zip) allure-results.zip
+* [Plan](https://github.com/bigsurmoon/diploma/blob/master/TestingInformation/PLAN.md)
+* [Checklist](https://github.com/bigsurmoon/diploma/blob/master/TestingInformation/Check.xlsx)
+* [Test Cases](https://github.com/bigsurmoon/diploma/blob/master/TestingInformation/Cases.xlsx)
+* [Results](https://github.com/bigsurmoon/diploma/blob/master/TestingInformation/RESULTS.md)
+* [Download](https://github.com/bigsurmoon/diploma/raw/master/allure-results.zip) allure-results.zip
 
-## 2. Процедура запуска авто-тестов:
+## 2. Procedure for running auto tests:
 
-* Открыть проект в Android Studio;
-* Ввести в терминал ./gradlew connectedCheck
-* Нажать Enter
+* Download project and open in Android Studio
+* Make sure you created Virtual Device or you have real Android Device 
+* Run command in terminal: ./gradlew connectedCheck
+* See results in allure-results folder in the main app directory
 
-## Выполнено:
+## Author:
 
 - [@bigsurmoon](https://www.github.com/bigsurmoon)
