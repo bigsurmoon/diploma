@@ -9,7 +9,7 @@
 ## 2. Procedure for running auto tests:
 
 * Download project and open in Android Studio
-* Make sure you created Virtual Device or you have real Android Device 
+* Make sure you've created Virtual Device or you have a real Android Device 
 * Run command in terminal: ./gradlew connectedCheck
 * See results in allure-results folder in the main app directory
 
